@@ -1,4 +1,4 @@
-### **PhD Dissertation Project Summary** 🚀📚  
+# **PhD Dissertation Project Summary** 🚀📚  
 
 **Title:** Synthesis of Stabilization Laws for the Spatial Motion of a Spacecraft with Minor Asymmetry in the Martian Atmosphere  
 
@@ -9,7 +9,7 @@ The dissertation investigates the **controlled rotational motion of stabilized s
 
 ---
 
-### **Key Contributions & Innovations** 🎯  
+## **Key Contributions & Innovations** 🎯  
 1. **Optimal Control Laws:**  
    - Developed **continuous optimal control laws** for stabilizing SC angular velocity and angle of attack, accounting for disturbances from minor aerodynamic and mass-inertial asymmetries.  
    - Derived **discrete analogs** of these laws to account for the **discrete operation of thrusters** (e.g., pulsed reaction control systems).  
@@ -23,7 +23,7 @@ The dissertation investigates the **controlled rotational motion of stabilized s
 
 ---
 
-### **Tools, Software & Skills** 🛠️  
+## **Tools, Software & Skills** 🛠️  
 - **Mathematical Modeling:**  
   - Nonlinear and quasi-linear equations of motion.  
   - Averaging methods for asymptotic analysis.  
@@ -41,7 +41,7 @@ The dissertation investigates the **controlled rotational motion of stabilized s
 
 ---
 
-### **Publications & Dissemination** 📜  
+## **Publications & Dissemination** 📜  
 - **10 peer-reviewed publications**, including:  
   - 4 papers in **VAK-listed journals** (Russian Higher Attestation Commission).  
   - 2 papers indexed in **Scopus**.  
@@ -52,7 +52,7 @@ The dissertation investigates the **controlled rotational motion of stabilized s
 
 ---
 
-### **Key Findings & Impact** 🌍  
+## **Key Findings & Impact** 🌍  
 - **Stabilization Performance:**  
   - The control laws reduce angular velocity and angle of attack to sensor-error levels (e.g., ≤0.002 rad/s, ≤0.004 rad) within **40 seconds** of descent.  
 - **Resonance Mitigation:**  
@@ -62,7 +62,7 @@ The dissertation investigates the **controlled rotational motion of stabilized s
 
 ---
 
-### **Conclusion**  
+## **Conclusion**  
 This work advances the **autonomous control of asymmetric spacecraft** in Martian atmospheric entry, combining **theoretical rigor** (optimal control, averaging methods) with **practical applicability** (thruster discretization, asymmetry limits). The results contribute to **mission safety** for future Mars landers and low-orbit probes.  
 
 **Tags:** #SpacecraftControl #OptimalControl #MarsAtmosphere #AerospaceEngineering #PhDResearch  
